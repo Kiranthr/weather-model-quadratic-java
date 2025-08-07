@@ -1,0 +1,16 @@
+Project: Weather Modeling using Quadratic Regression in Java
+
+Purpose: Predict future temperature based on past data using quadratic regression.
+
+Inputs: 
+- X values (day/time)
+- Y values (temperature)
+
+Output:
+- Quadratic equation in the form y = ax² + bx + c
+
+Stages:
+1. Hardcoded
+2. Keyboard Input
+3. File Input
+4. Multiple Input Sets

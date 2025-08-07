@@ -1,0 +1,12 @@
+Design:
+
+Use Least Squares Method to fit data into y = ax² + bx + c.
+
+Classes:
+- QuadraticSolver.java: Core logic
+- Stage1-4.java: Different I/O methods
+
+File structure:
+- data/: Input files
+- src/: Java source code
+- docs/: Documentation

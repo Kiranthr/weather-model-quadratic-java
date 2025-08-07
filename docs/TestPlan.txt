@@ -1,0 +1,10 @@
+Test Cases:
+
+1. Input: x = [1,2,3], y = [30,35,40]
+   Expected output: a valid quadratic equation
+
+2. Empty file input
+   Expected: No crash, handle error
+
+3. Multiple sets with different sizes
+   Expected: Handle each set independently
